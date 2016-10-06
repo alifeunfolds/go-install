@@ -18,3 +18,8 @@ export PATH=$PATH:/usr/local/go/bin
 export GOPATH=$HOME/Works/go
 export PATH=$PATH:$GOPATH/bin
 ```
+
+## Install Go Commands
+```
+go get golang.org/x/tools/cmd/...
+```
